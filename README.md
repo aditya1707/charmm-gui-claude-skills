@@ -2,6 +2,11 @@
 
 An AI agent skill that automates [CHARMM-GUI](https://www.charmm-gui.org/) PDB Reader & Manipulator through browser automation. Instead of manually clicking through dozens of dropdowns to set up post-translational modifications, protonation states, and other structural modifications, you describe what you want in natural language and the agent does it.
 
+## Demo
+
+<video controls src="Demo/claude-skill-demo-for-charmm-gui-pdbreader.mp4" title="video_url"></video>
+
+
 ## The Problem
 
 Setting up a protein structure in CHARMM-GUI PDB Reader for MD simulation involves:
