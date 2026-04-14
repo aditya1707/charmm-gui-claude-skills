@@ -4,8 +4,7 @@ An AI agent skill that automates [CHARMM-GUI](https://www.charmm-gui.org/) PDB R
 
 ## Demo
 
-<video src="Demo/claude-skill-demo-for-charmm-gui-pdbreader.mp4" controls width="100%"></video>
-
+<video src="https://github.com/user-attachments/assets/586a5c4c-a5b1-4619-bfe0-e38fc6507ff1" controls width="100%"></video>
 
 ## The Problem
 
